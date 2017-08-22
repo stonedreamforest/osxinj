@@ -17,5 +17,6 @@ Notes
 
 
 使用方法：
-cd 到源文件目录
- sudo ./osxinj 目标程序 xxxx.dylib
+- cd 到源文件目录
+ ```sudo``` ```./osxinj``` ```目标程序``` ```xxxx.dylib```
+
